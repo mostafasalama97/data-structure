@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1668511567 source:d:\work\instructor\ds\intake 43\iot\day1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1668515484 d:\work\instructor\ds\intake 43\iot\day1\include\linkedlist.h
+
+1668626974 source:f:\data structure\day1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1668626904 f:\data structure\day1\include\linkedlist.h
+
