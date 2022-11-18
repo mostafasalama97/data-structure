@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1668797503 source:e:\iti matrial\data structure\data-structure\day 2\day 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stackbyLL.h"
+
+1668797503 e:\iti matrial\data structure\data-structure\day 2\day 2\stackbyll.h
+
+1668797503 source:f:\data structure\day 2\day 2\day 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stackbyLL.h"
+
+1668797503 f:\data structure\day 2\day 2\day 2\stackbyll.h
+
+1668797966 source:f:\data structure\day 2\day 2\day 2\stackbyll.c
+	<stdlib.h>
+	<stdio.h>
+
